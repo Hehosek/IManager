@@ -5,4 +5,4 @@ Narzędzia do zarządzania kampanią Imperium Maledictum
 Aplikacja webowa PWA do obliczania prawdopodobieństw i zarządzania kampanią IM.
 
 ## Link
-[Otwórz aplikację](https://twoja-nazwa.github.io/IManager)
+[Otwórz aplikację](https://hehosek.github.io/IManager)
